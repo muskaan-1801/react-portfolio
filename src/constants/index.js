@@ -2,6 +2,8 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
+
 
 export const HERO_CONTENT = `I am a passionate and driven full stack developer with a strong foundation in Java, where I have excelled in mastering Data Structures and Algorithms (DSA). My journey in the tech world is fueled by an insatiable curiosity and a relentless drive to learn and grow. Although I am still in the process of mastering web technologies, I have already gained solid experience in HTML, CSS, JavaScript, React, MongoDB, and Node.js. My ability to quickly grasp new concepts and apply them effectively sets me apart. I am also a natural leader with strong communication skills, enabling me to guide teams and articulate ideas clearly. My goal is to continue learning, pushing boundaries, and leveraging my growing expertise to create innovative solutions that not only meet but exceed expectations.`;
 
@@ -47,9 +49,17 @@ export const PROJECTS = [
     title: "SelfCreation-LinkedIn Clone",
     image: project4,
     description:
-      "'SelfCreation,' a static LinkedIn clone, using HTML, CSS, and basic JavaScript. This project focuses on showcasing the design capabilities of HTML and CSS to build a professional, responsive layout. Basic JavaScript action listeners are included to demonstrate simple user interactions, but the site remains static and non-functional.",
+      "'SelfCreation' a static LinkedIn clone, using HTML, CSS, and basic JavaScript. This project focuses on showcasing the design capabilities of HTML and CSS to build a professional, responsive layout. Basic JavaScript action listeners are included to demonstrate simple user interactions, but the site remains static and non-functional.",
     technologies: ["HTML", "CSS", "JavaScript"],
     link : 'https://github.com/muskaan-1801/SelfCreation'
+  },
+  {
+    title: "Recipe-App",
+    image: project5,
+    description:
+      "Developed a recipe-app using React, which connects to an API to provide users with a seamless experience in finding recipes. Users can search for recipes using the input field, and the app fetches and displays related recipes along with detailed information such as calories and ingredients. This project showcases my ability to integrate external APIs and build responsive, user-friendly interfaces with React.",
+    technologies: ["HTML", "CSS", "JavaScript","React"],
+    link : 'https://github.com/muskaan-1801/GetRecipe'
   },
 ];
 
