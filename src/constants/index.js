@@ -25,6 +25,7 @@ export const PROJECTS = [
     description:
       "Developed my portfolio using HTML, React, and Tailwind CSS to showcase my skills, projects, and experiences. Leveraging the power of React for a dynamic user interface and Tailwind CSS for sleek, responsive design, this portfolio reflects my expertise in front-end development and my commitment to creating visually appealing and highly functional web applications.",
     technologies: ["HTML", "Javascript", "Tailwind", "React"],
+    link : 'https://github.com/muskaan-1801/SelfCreation'
   },
   {
     title: "MuKo EId Card Generator",
@@ -32,6 +33,7 @@ export const PROJECTS = [
     description:
       "Developed an ID card generator using HTML, CSS, JavaScript, and Node.js. In this application, students can input their details, and the system generates an ID card using HTML, CSS, and JavaScript. The data entered by the students is authenticated against a database, ensuring accuracy and security before generating the final ID card. This project demonstrates my ability to integrate front-end and back-end technologies to create functional and secure web applications.",
     technologies: ["HTML", "CSS", "JavaScript", "NodeJS"],
+    link : 'https://github.com/muskaan-1801/MuKoEidCardGenerator'
   },
   {
     title: "StonePaperScissor",
@@ -39,6 +41,7 @@ export const PROJECTS = [
     description:
       "Developed a Stone-Paper-Scissors game using HTML, CSS, and JavaScript, with a primary focus on JavaScript to demonstrate the creation of a dynamic, interactive game. This project showcases various JavaScript functionalities, including event handling, logic implementation, and DOM manipulation, providing a fun and engaging way to explore the capabilities of the language.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    link : 'https://github.com/muskaan-1801/StonePaperScissor'
   },
   {
     title: "SelfCreation-LinkedIn Clone",
@@ -46,6 +49,7 @@ export const PROJECTS = [
     description:
       "'SelfCreation,' a static LinkedIn clone, using HTML, CSS, and basic JavaScript. This project focuses on showcasing the design capabilities of HTML and CSS to build a professional, responsive layout. Basic JavaScript action listeners are included to demonstrate simple user interactions, but the site remains static and non-functional.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    link : 'https://github.com/muskaan-1801/SelfCreation'
   },
 ];
 
